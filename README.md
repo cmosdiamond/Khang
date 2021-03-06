@@ -2,7 +2,6 @@
 
 WebdriverIO test scripts for a Site Login
 
-Generated via [testyourlog.in](http://testyourlog.in).
 
 ## Installation
 
