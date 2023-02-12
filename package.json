@@ -17,8 +17,8 @@
     "tempy": "^0.5.0"
   },
   "devDependencies": {
-    "@wdio/cli": "^6.1.22",
-    "@wdio/local-runner": "^6.1.22",
+    "@wdio/cli": "^8.3.5",
+    "@wdio/local-runner": "^8.3.5",
     "@wdio/mocha-framework": "^6.1.19",
     "@wdio/spec-reporter": "^6.1.14",
     "@wdio/sync": "^6.1.14",
